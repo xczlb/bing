@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://cn.bing.com"}
+      {"src": "/(.*)","dest": "https://bing.com"}
     ]
 }
